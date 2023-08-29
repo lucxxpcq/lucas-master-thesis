@@ -1,1 +1,3 @@
 <h1>Lucas Master Thesis</h1>
+
+The object of this master thesis is to ....
